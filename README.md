@@ -1,4 +1,4 @@
-# BountyHunt v2.0
+# BountyHunt v1.0
 
 > A modular, portable CLI framework for professional bug bounty hunting and authorized security research.
 
