@@ -1,0 +1,8 @@
+reports/
+*.log
+*.html
+*.md.bak
+.seen_fps
+sessions.log
+~/.config/bountyhunt/config
+*.tmp
